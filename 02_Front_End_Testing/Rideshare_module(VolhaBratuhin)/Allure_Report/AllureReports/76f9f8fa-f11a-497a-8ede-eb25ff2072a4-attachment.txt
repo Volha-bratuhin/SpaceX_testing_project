@@ -1,0 +1,4 @@
+Title is correct
+The estimated price has changed.
+TC-2 passed. The user can fill in all boxes
+All breadcrumb-component-row is displayed

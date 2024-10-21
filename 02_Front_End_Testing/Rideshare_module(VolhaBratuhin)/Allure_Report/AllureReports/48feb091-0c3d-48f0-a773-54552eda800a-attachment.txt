@@ -1,0 +1,2 @@
+TC-5-5 passed. The user can't fail to enter State.
+The page is correct. An inscription appeared 'Please enter a state'.

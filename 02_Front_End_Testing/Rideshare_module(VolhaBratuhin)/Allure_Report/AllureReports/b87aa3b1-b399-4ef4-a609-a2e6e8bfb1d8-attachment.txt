@@ -1,0 +1,2 @@
+TC-3-3 passed. The user can't enter invalid phone number.
+The page is correct. An inscription appeared 'Please enter a valid phone number'.

@@ -1,0 +1,2 @@
+TC-6-6 passed. The user can't fail to enter Country.
+The page is correct. An inscription appeared 'Please enter a country'.

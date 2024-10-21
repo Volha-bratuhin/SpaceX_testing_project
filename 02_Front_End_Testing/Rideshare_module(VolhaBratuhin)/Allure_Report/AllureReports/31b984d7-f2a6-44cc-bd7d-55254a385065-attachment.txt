@@ -1,0 +1,2 @@
+TC-3 passed. The user can select flight
+The page is correct

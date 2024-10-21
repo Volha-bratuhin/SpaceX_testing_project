@@ -1,0 +1,1 @@
+TC-6 passed. The user can fill in all boxes

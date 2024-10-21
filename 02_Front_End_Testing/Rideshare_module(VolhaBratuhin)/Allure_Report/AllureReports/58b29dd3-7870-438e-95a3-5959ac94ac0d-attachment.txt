@@ -1,0 +1,2 @@
+TC-4 passed. The user can select technical specifications
+The page is correct

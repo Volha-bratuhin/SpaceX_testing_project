@@ -1,0 +1,2 @@
+TC-1-1 passed. The user can't search flights
+The page is correct. An inscription appeared 'Please enter search parameters above'.

@@ -1,0 +1,2 @@
+TC-2-2 passed. The user can't fail to enter Company Name.
+The page is correct. An inscription appeared 'Please enter a company name'.

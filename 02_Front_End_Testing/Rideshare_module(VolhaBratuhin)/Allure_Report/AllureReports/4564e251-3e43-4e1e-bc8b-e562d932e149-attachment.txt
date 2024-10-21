@@ -1,0 +1,3 @@
+Title is correct
+All icons in header menu is displayed
+TC-1 passed. All icons on the page is displayed

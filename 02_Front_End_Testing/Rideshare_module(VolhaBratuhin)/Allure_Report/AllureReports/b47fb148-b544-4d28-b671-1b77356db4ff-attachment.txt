@@ -1,0 +1,6 @@
+Everything is correct. The separation system price is the same.
+The fuel price has changed.
+Everything is correct. The insurance price is the same.
+The current total price has changed.
+TC-5 passed. ADD-ONS is correct
+The page is correct

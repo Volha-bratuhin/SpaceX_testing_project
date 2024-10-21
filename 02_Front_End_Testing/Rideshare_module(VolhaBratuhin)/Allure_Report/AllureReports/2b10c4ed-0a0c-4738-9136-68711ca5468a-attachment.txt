@@ -1,0 +1,2 @@
+TC-10-10 passed. The user can't enter invalid email address.
+The page is correct. An inscription appeared 'Please enter a valid email address'.
